@@ -53,7 +53,7 @@
         ],
         "vercel": [
             "@putenv DB_CONNECTION=pgsql-no-pooling",
-            "@php artisan admin:install",
+            "@php artisan vendor:publish --tag=laravel-admin-assets",
             "@php artisan migrate --force"
         ]
     },
