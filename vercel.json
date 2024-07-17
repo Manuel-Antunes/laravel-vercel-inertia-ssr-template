@@ -1,0 +1,20 @@
+{
+    "$schema": "https://openapi.vercel.sh/vercel.json",
+    "functions": {
+        "api/index.php": {
+            "runtime": "vercel-php@0.7.1",
+            "includeFiles": "api/**"
+        }
+    },
+    "rewrites": [
+        {
+            "source": "/(css|js)/(.*)",
+            "destination": "/public/$1/$2"
+        },
+        {
+            "source": "/(.*)",
+            "destination": "/api/index.php"
+        }
+    ],
+    "outputDirectory": "public"
+}
