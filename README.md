@@ -7,6 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FManuel-Antunes%2Flaravel-vercel-inertia-ssr-template%2Ftree%2Fmain&env=APP_CONFIG_CACHE,APP_EVENTS_CACHE,APP_PACKAGES_CACHE,APP_ROUTES_CACHE,APP_SERVICES_CACHE,CACHE_DRIVER,LOG_CHANNEL,SESSION_DRIVER,VIEW_COMPILED_PATH,SSR_TEMP_PATH&envDescription=Some%20important%20environment%20variables%20besides%20your%20laravel%20variables%20to%20bootstrap%20the%20project&demo-title=Admin%20App%20SSR%20Inertia&demo-url=https%3A%2F%2Ftest-admin-xi.vercel.app%2F)
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
