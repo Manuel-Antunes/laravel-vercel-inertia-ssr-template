@@ -12,8 +12,8 @@
         "laravel/framework": "^10.10",
         "laravel/sanctum": "^3.2",
         "laravel/tinker": "^2.8",
-        "predis/predis": "^2.2",
         "nunomaduro/collision": "^7.0",
+        "predis/predis": "^2.2",
         "sentry/sentry-laravel": "^4.7",
         "tightenco/ziggy": "^2.0"
     },
