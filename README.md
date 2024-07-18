@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FManuel-Antunes%2Flaravel-vercel-inertia-ssr-template%2Ftree%2Fmain&env=APP_NAME,APP_KEY,APP_URL,SENTRY_LARAVEL_DSN,VITE_SENTRY_DSN_PUBLIC&envDescription=Laravel%20env%20vars&envLink=https%3A%2F%2Fgithub.com%2FManuel-Antunes%2Flaravel-example-inertia-manuel%2Fblob%2Fmain%2F.env.example&demo-title=Admin%20App%20SSR%20Inertia&demo-url=https%3A%2F%2Ftest-admin-xi.vercel.app&storage=postgres-prisma)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FManuel-Antunes%2Flaravel-vercel-inertia-ssr-template%2Ftree%2Fmain&env=APP_NAME,APP_KEY,APP_URL,SENTRY_LARAVEL_DSN,VITE_SENTRY_DSN_PUBLIC&envDescription=Laravel%20env%20vars&envLink=https%3A%2F%2Fgithub.com%2FManuel-Antunes%2Flaravel-example-inertia-manuel%2Fblob%2Fmain%2F.env.example&demo-title=Admin%20App%20SSR%20Inertia&demo-url=https%3A%2F%2Ftest-admin-xi.vercel.app&storages=%5B%7B%22type%22%3A%22postgres%22%7D%5D')
 
 ## About Laravel
 
