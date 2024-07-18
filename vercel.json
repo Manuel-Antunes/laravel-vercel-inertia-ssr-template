@@ -4,9 +4,18 @@
         "api/index.php": {
             "runtime": "vercel-php@0.7.1",
             "includeFiles": "api/**"
+        },
+        "api/ssr.ts": {
+            "memory": 3009,
+            "maxDuration": 30,
+            "includeFiles": "resources/**"
         }
     },
     "rewrites": [
+        {
+            "source": "/api/ssr/(.*)",
+            "destination": "/api/ssr.ts"
+        },
         {
             "source": "/(css|js)/(.*)",
             "destination": "/public/$1/$2"
