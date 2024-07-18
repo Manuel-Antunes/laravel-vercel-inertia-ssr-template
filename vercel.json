@@ -6,7 +6,7 @@
             "includeFiles": "api/**"
         },
         "api/ssr.ts": {
-            "memory": 3009,
+            "memory": 512,
             "maxDuration": 30,
             "includeFiles": "resources/**"
         }
