@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FManuel-Antunes%2Flaravel-vercel-inertia-ssr-template%2Ftree%2Fmain&env=APP_CONFIG_CACHE,APP_EVENTS_CACHE,APP_PACKAGES_CACHE,APP_ROUTES_CACHE,APP_SERVICES_CACHE,CACHE_DRIVER,LOG_CHANNEL,SESSION_DRIVER,VIEW_COMPILED_PATH,SSR_TEMP_PATH&envDescription=Some%20important%20environment%20variables%20besides%20your%20laravel%20variables%20to%20bootstrap%20the%20project&demo-title=Admin%20App%20SSR%20Inertia&demo-url=https%3A%2F%2Ftest-admin-xi.vercel.app%2F)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FManuel-Antunes%2Flaravel-example-inertia-manuel%2Ftree%2Fmain&env=APP_NAME,APP_KEY,APP_URL,SENTRY_LARAVEL_DSN,VITE_SENTRY_DSN_PUBLIC&envDescription=Laravel%20env%20vars&envLink=https%3A%2F%2Fgithub.com%2FManuel-Antunes%2Flaravel-example-inertia-manuel%2Fblob%2Fmain%2F.env.example&demo-title=Admin%20App%20SSR%20Inertia&demo-url=https%3A%2F%2Ftest-admin-xi.vercel.app)
 
 ## About Laravel
 

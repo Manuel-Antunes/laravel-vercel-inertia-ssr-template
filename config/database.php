@@ -80,7 +80,7 @@ return [
 
         'pgsql-no-pooling' => [
             'driver' => 'pgsql',
-            'url' => env('DATABASE_URL'),
+            'url' => env('DB_URL_NON_POOLING'),
             'host' => env('DB_HOST_NON_POOLING', '127.0.0.1'),
             'port' => env('DB_PORT', '5432'),
             'database' => env('DB_DATABASE', 'forge'),
