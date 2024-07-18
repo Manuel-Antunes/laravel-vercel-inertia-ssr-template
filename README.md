@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FManuel-Antunes%2Flaravel-vercel-inertia-ssr-template%2Ftree%2Fmain&env=APP_NAME,APP_KEY,APP_URL,SENTRY_LARAVEL_DSN,VITE_SENTRY_DSN_PUBLIC&envDescription=Laravel%20env%20vars&envLink=https%3A%2F%2Fgithub.com%2FManuel-Antunes%2Flaravel-example-inertia-manuel%2Fblob%2Fmain%2F.env.example&demo-title=Admin%20App%20SSR%20Inertia&demo-url=https%3A%2F%2Ftest-admin-xi.vercel.app&stores=%5B%7B%22type%22%3A%22postgres%22%7D%5D')
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/l-pro/clone?repository-url=https%3A%2F%2Fgithub.com%2FManuel-Antunes%2Flaravel-vercel-inertia-ssr-template%2Ftree%2Fmain&project-name=laravel-inertia-postgres&repository-name=laravel-inertia-postgres&demo-title=Vercel%20Postgres%20%2B%20Prisma%20Next.js%20Starter&demo-description=Simple%20Next.js%20template%20that%20uses%20Vercel%20Postgres%20as%20the%20database%20and%20Prisma%20as%20the%20ORM.&demo-url=https%3A%2F%2Fpostgres-prisma.vercel.app%2F&demo-image=https%3A%2F%2Fpostgres-prisma.vercel.app%2Fopengraph-image.png&stores=%5B%7B%22type%22%3A%22postgres%22%7D%5D&env=APP_NAME%2CAPP_KEY%2CAPP_URL%2CSENTRY_LARAVEL_DSN%2CVITE_SENTRY_DSN_PUBLIC&envDescription=Laravel%20env%20vars&envLink=https%3A%2F%2Fgithub.com%2FManuel-Antunes%2Flaravel-example-inertia-manuel%2Fblob%2Fmain%2F.env.example)
 
 ## About Laravel
 
