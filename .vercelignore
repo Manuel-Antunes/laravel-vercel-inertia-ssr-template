@@ -4,3 +4,6 @@
 Homestead.json
 Homestead.yaml
 /public/index.php
+.env
+.env.example
+.env.production
